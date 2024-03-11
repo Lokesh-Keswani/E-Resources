@@ -1,0 +1,77 @@
+body {
+    background-image: url('Untitled\ design\ \(1\).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+
+    /* Add this to position text */
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+    /* Updated background image */
+
+    /* Set the font family */
+}
+
+.opacity {
+    opacity: 80%;
+    position: fixed;
+    width: 100%;
+    z-index: 1030;
+    top: 0;
+    font-size: medium;
+
+}
+
+.img1 a {
+    color: black;
+}
+
+.nav-link:visited {
+    color: black;
+}
+
+.navbar-brand {
+    color: black !important;
+}
+
+.nav-link:hover {
+
+    color: black !important;
+}
+
+.img {
+    color: black;
+}
+
+
+/* Move the headline towards the right slightly */
+
+.main {
+    background-color: #fcfafa;
+    border-radius: 20px;
+    font-weight: 200px;
+    padding: 20px;
+    opacity: 80%;
+    margin: 10%;
+}
+
+h1 {
+
+    font-size: 1.5rem;
+    color: #007bff;
+    text-align: center;
+    /* Blue color for headings */
+}
+
+p {
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 5px;
+}
+
+
+
+/* Style for the button */
